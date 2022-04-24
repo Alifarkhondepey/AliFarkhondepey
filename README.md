@@ -65,5 +65,4 @@ we created ERP and PLM (Paperless management system).
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="1650811077497" border="0" width="100"> 
   </a>
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliFarkhondepey)](https://github.com/anuraghazra/github-readme-stats)
 
