@@ -13,9 +13,8 @@ I'm a developer, can't say fullstack but trying to be. <img src="https://media1.
 <div>
   <h3>My skills:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,js,jquery,bootstrap,css,react,angular,cs,cpp,dotnet,git,github,gitlab,redis,kubernetes,docker,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,js,jquery,bootstrap,css,react,angular,cs,cpp,dotnet,git,github,gitlab,redis,azure,docker,visualstudio,vscode" />
 </p>
-  <p>Learning:</p>
   <p><img src="https://cdn.worldvectorlogo.com/logos/blazor.svg" width="60" />,    <img src="https://skillicons.dev/icons?i=angular" />
 </p>
 
