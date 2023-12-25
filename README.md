@@ -39,13 +39,7 @@ we created ERP and PLM (Paperless management system).
   </div>
 </div>
 
-<h1>My CV:</h1>
-<div>
-  <p>To downloading my cv please click on the icon.</p>
-  <a href="https://europa.eu/europass/eportfolio/screen/share/6cf8c662-db53-4005-8711-d86fd9a8c871?lang=en">
-<img src="https://media1.giphy.com/media/JJvj6wwTtmQcce6Pdw/giphy.gif?cid=ecf05e47q73uvx64a14vjqn4ywjqnvyio5u710an4jb3gcsl&rid=giphy.gif&ct=s" width="100" />
-    </a>
-</div>
+
 <div>
   <h1>Contact me:</h1>
    <h3>Email:</h3>
