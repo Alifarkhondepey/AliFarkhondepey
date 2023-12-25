@@ -19,25 +19,7 @@ I'm a developer, can't say fullstack but trying to be. <img src="https://media1.
 
 </div>
 
-<div>
-  <h1>Last Experiences:</h1>
-  <div>
-    <h4>
-      Application software developer 
-    </h4>
-    <h5>
-    Datamatix [ 08/05/2021 – 28/04/2022 ] 
-    </h5>
-    <p>
-      I worked there as a software developer and mid-senior .net developer.
-I analyzed on based what the client wanted and create documentation and developed then create a user manual
-for the client and presented it for each module.
-I designed and develop with .net core and .net 6.
-our design pattern was microservices.
-we created ERP and PLM (Paperless management system).
-    </p>
-  </div>
-</div>
+
 
 
 <div>
