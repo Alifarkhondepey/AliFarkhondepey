@@ -2,7 +2,7 @@
 <h2>I'm Ali Farkhondepey</h2>
 <div>
 
-I'm a developer, can't say fullstack but trying to be. <img src="https://media1.giphy.com/media/omikmLTcKQsjkWhF92/giphy.gif?cid=ecf05e47fll7h45gt0revl9mz2yxknepbco3apy212u8fmpl&rid=giphy.gif&ct=s" width="40"/>
+<img src="https://media1.giphy.com/media/omikmLTcKQsjkWhF92/giphy.gif?cid=ecf05e47fll7h45gt0revl9mz2yxknepbco3apy212u8fmpl&rid=giphy.gif&ct=s" width="40"/>
   </div>
 <div id="header" align="center">
   <a href="https://www.linkedin.com/in/ali-farkhondepey-b29288109/">
